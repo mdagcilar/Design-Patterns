@@ -1,0 +1,7 @@
+# Default ignored files
+/shelf/
+.idea
+
+api-gateway-service.iml
+image-service.iml
+price-service.iml
